@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "380449568085",
+    "firebase_url": "https://attendance-monitoring-sy-bfbd7.firebaseio.com",
+    "project_id": "attendance-monitoring-sy-bfbd7",
+    "storage_bucket": "attendance-monitoring-sy-bfbd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380449568085:android:44026be97bfeb0db",
+        "android_client_info": {
+          "package_name": "com.example.varsha.attendance_monitoring_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380449568085-h96sv89gc9u5qlfgg945uhp3kftd4m0j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.varsha.attendance_monitoring_system",
+            "certificate_hash": "1c0c121354bff4ff99abfaaf3cb2bccab3d8e5f0"
+          }
+        },
+        {
+          "client_id": "380449568085-lleoh3069rugmf2lvp7839fhimisb26q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBufC016yZZ8tKFLIeXrRYFZillKNmgghI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380449568085-lleoh3069rugmf2lvp7839fhimisb26q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
